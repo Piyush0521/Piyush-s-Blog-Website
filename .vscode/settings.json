@@ -1,0 +1,10 @@
+{
+    "editor.autoClosingQuotes": "always",
+    "editor.codeActionsOnSave": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+      },
+      "emmet.triggerExpansionOnTab": true
+}
